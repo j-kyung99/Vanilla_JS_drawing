@@ -25,3 +25,7 @@
 
 - ctx.save() => ctx의 현재 상태를 저장
 - ctx.restore() => ctx를 저장해뒀던 버전으로 되돌림
+
+### URL.createObjectURL()
+
+- 파일을 올린 브라우저 안에서만 사용 가능한 URL
