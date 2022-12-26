@@ -29,3 +29,7 @@
 ### URL.createObjectURL()
 
 - 파일을 올린 브라우저 안에서만 사용 가능한 URL
+
+### css
+
+- all:unset => css 속성을 전부 제거
